@@ -1,2 +1,2 @@
-#Project 1
+# Project1
 Simple shell with pipe operations
